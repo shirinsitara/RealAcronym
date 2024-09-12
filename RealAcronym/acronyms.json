@@ -1,0 +1,120 @@
+[
+    {
+        "word": "CTO",
+        "meaning": "card turnover"
+    },
+    {
+        "word": "FCA",
+        "meaning": "financial conduct authority"
+    },
+    {
+        "word": "PCI DSS",
+        "meaning": "Payment Card Industry Data Security Standard"
+    },
+    {
+        "word": "ATV",
+        "meaning": "Average transaction value"
+    },
+    {
+        "word": "P2PE",
+        "meaning": "Point to point encryption"
+    },
+    {
+        "word": "POI",
+        "meaning": "Point of interaction"
+    },
+    {
+        "word": "POS",
+        "meaning": "Point of Sale"
+    },
+    {
+        "word": "PAN",
+        "meaning": "Primary account number"
+    },
+    {
+        "word": "CVV",
+        "meaning": "Card verification value"
+    },
+    {
+        "word": "CVC",
+        "meaning": "Card verification code"
+    },
+    {
+        "word": "CSC",
+        "meaning": "Card security code"
+    },
+    {
+        "word": "DCC",
+        "meaning": "dynamic currency conversion"
+    },
+    {
+        "word": "KYC",
+        "meaning": "know your customer"
+    },
+    {
+        "word": "SME",
+        "meaning": "Small and medium sized enterprises"
+    },
+    {
+        "word": "RMS",
+        "meaning": "restaurant management system"
+    },
+    {
+        "word": "EPOS / POS",
+        "meaning": "Electronic point of sale"
+    },
+    {
+        "word": "PMM",
+        "meaning": "Product Marketing Manager"
+    },
+    {
+        "word": "PM",
+        "meaning": "Product Manager"
+    },
+    {
+        "word": "PC",
+        "meaning": "Payments Consultant"
+    },
+    {
+        "word": "CSA",
+        "meaning": "Customer Service Agent"
+    },
+    {
+        "word": "RCM",
+        "meaning": "Regional Commercial Manager"
+    },
+    {
+        "word": "IVR",
+        "meaning": "Interactive voice response"
+    },
+    {
+        "word": "GTM",
+        "meaning": "Go to market"
+    },
+    {
+        "word": "OKR",
+        "meaning": "objectives & key results"
+    },
+    {
+        "word": "CRM",
+        "meaning": "customer relationship marketing"
+    },
+    {
+        "word": "MPP",
+        "meaning": "Merchant Payments Products"
+    },
+    {
+        "word": "DEP",
+        "meaning": "Data empowered payments"
+    },
+    {
+        "word": "CPP",
+        "meaning": "Customer Platform Products"
+    },
+    {
+        "word": "CARBS",
+        "meaning": "Clearing, Authorisation, Reconciliation, Billing and Settlement"
+    }
+
+]
+
